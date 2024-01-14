@@ -1,0 +1,7 @@
+app:
+    parameters:
+        height: '200' #Adjust the desired height of QR code
+        width: '200' #Adjust the desired width of QR code
+---
+server:
+    port: 8080
